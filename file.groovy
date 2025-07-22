@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        MAIN_BRANCH = 'main'
+        MAIN_BRANCH = 'latest_branch'
     }
 
     stages {
